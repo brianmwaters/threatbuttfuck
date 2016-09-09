@@ -9,11 +9,11 @@
 * No semicolons
 
 ### Clownpiling
-`$ make # for maximum IoC-stopping exploit mitigation killchains and scary warnings`
+`$ make` (for maximum IoC-stopping exploit mitigation killchains and scary warnings)
 
 or just
 
-`$ gcc -o threatbuttfuck threatbuttfuck.c # not safe unless you have a really expensive firewall`
+`$ gcc -o threatbuttfuck threatbuttfuck.c` (not safe unless you paid for our ClownStrike technology)
 
 ### Example
-$ echo "$CORPORATESECRETS" | ./threatbuttfuck rot13.bf
+`$ echo "$CORPORATESECRETS" | ./threatbuttfuck rot13.bf`
